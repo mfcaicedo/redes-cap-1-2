@@ -9,4 +9,8 @@ ver
 ## 2. Listar las actividades cotidianas que realiza usted utilizando internet
 
 ## 3. Dar ejemplos de herramientas de comunicación que utiliza o ha utilizado
-+Mensajeria Instantanea: 
++ Mensajeria Instantanea: Al comunicarme en tiempo real por medio de texto escrito a traves del internet compatiendo archivos, 
+con registro escrito con seguridad al estar codificado extremo a extremo como Whatsapp.
++ Blogs: Para conocer el contenido compartido por otras personas, como investigaciones, estados, intereses.
++ Correo: Electronico o fisico para compartir mensajes especificos o importantes hacia un remitente.  
++ Redes sociales: Mostrando nuestras actividades para el mundo o familia.
