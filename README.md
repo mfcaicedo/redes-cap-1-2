@@ -68,4 +68,18 @@ inalámbrica, siendo capaces de transportar gran cantidad de diferentes tipos de
 video y productos de entretenimiento. Los servicios son los programas de comunicación, denominados software, que se ejecutan en los dispositivos 
 conectados a la red.
 
-## 3. 
+## 3. ¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
+La Internetwork es Una malla global de redes interconectadas que cubre las necesidades de comunicación humanas. Algunas de estas redes interconectadas 
+de internetworks pertenecen a organizaciones públicas o privadas reservadas para su uso exclusivo de unos pocos. Internet en cambio es una de las varias 
+internetworks que existen, ampliamente utilizada con acceso abierto al público en general.  
+
+## 5 ¿Por qué se dice que un protocolo es independiente de la tecnología?
+
+El protocolo es independiente a la tecnologia debido aqueson reglas que deben cumplirse para la correcta conexion entre los dispositivos que
+se encuentran en la red, sin importar su sistema operativo, estado u otros. Por lo cual las tecnologias deben adaptarse a las reglas que se establecen 
+para la comunicacion por las organizaciones encargadas.
+
+
+
+
+
