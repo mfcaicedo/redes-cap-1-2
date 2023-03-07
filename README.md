@@ -57,3 +57,15 @@ Tolerancia a fallos: resistente a fallos y tener redundancia para estar disponib
 Escalabilidad: Manejando un gran número de usuarios y transacciones.
 Calidad de servicio (QoS): La aplicación debe ser estable y consistente en su comportamiento.
 Seguridad: Protegiendo la información de los usuarios.
+
+# Segunda Parte
+
+## 1. Describir la estructura de una red, incluidos los dispositivos, medios y servicios necesarios para lograr comunicaciones exitosas.
+Los orígenes de los mensajes son los dispositivos que usando servicios como programas de comunicación, denominados software envian mensajes a 
+otros dispositivos, cada mensaje puede enviarse a través de una red de datos o de información convirtiéndolos  en dígitos binarios o bits. 
+Luego, estos bits se codifican en una señal que se puede transmitir por los medio apropiados, generalmente un tipo de cable o una transmisión 
+inalámbrica, siendo capaces de transportar gran cantidad de diferentes tipos de comunicaciones, que incluye datos informáticos, voz interactiva,
+video y productos de entretenimiento. Los servicios son los programas de comunicación, denominados software, que se ejecutan en los dispositivos 
+conectados a la red.
+
+## 3. 
