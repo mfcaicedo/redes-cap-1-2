@@ -10,6 +10,25 @@ Lista de actividades que realizo a diario:
 - Miro tutoriales en Youtube
 - Investigaciones académicas. 
 ## 4. Describir los factores que afectan la calidad de las comunicaciones.
- te
+Tenemos dos tipos de factores: 
+### Factores externos: relacionados a la complejidad de la red
+- Calidad de la ruta entre el emisor y receptor. 
+- Cambio de forma del mensaje
+- Cantidad de veces que el mensaje tiene que ser redireccionado o redirigido
+- Cantidad de mensajes adicionales que se transmiten simultáneamente en la red de comunicación
+- Cantidad de tiempo asignado para una comunicación exitosa
+
+
+### Factores internos: relacionados a la naturaleza del mensaje
+- Tamaño del mensaje 
+- Complejidad del mensaje 
+- Importancia del mensaje
+
 ## 6. Responda brevemente, ¿Qué son los datos? ¿Qué es una red de datos? ¿Qué es una red convergente?
+### Datos: 
+Representan la información que se transmite por la red.  
+### Red de datos: 
+Infraestructura, que tiene un conjunto de atributos que tiene como fin transmitir datos de un lugar a otro tanto local como sepadaros geograficamente. 
+### Red convergente
+
 ## 8. Investigar qué son las redes orientadas y no orientadas a la conexión. 
