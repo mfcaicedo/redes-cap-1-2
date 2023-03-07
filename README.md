@@ -27,7 +27,7 @@ servidores, modems.
 + Protocolos de Red: Son las reglas que se utilizan para transmitir datos a traves de la red(http, tcp/ip).
 + Mensajes de red: Contenido convertido en un formato para el viaje en la red.(texto, video, voz).
 
-##7. Describir las características de las arquitecturas de red: tolerante a fallas, escalabilidad, calidad del servicio y seguridad. 
+## 7. Describir las características de las arquitecturas de red: tolerante a fallas, escalabilidad, calidad del servicio y seguridad. 
 Mostrar sus respectivos ejemplos.
 + Red tolerante a fallas: 
 Redes orientadas a la conexión conmutadas por circuito: Se crea un circuito temporal a través de las ubicaciones de conmutación 
@@ -50,7 +50,7 @@ Garantizar la confidencialidad: Logrando que los datos los lean solamente los re
 (individuos, procesos o dispositivos).
 Mantener la integridad de las comunicaciones: Con información no alterada durante la transmisión de origen a destino.
 Garantizar disponibilidad: Accediendo de forma confiable y oportuna a los servicios de datos para usuarios autorizados.
-##9. Describa que es la calidad del servicio y que se necesita para mantener una buena calidad de servicio para las aplicaciones que lo requieren.
+## 9. Describa que es la calidad del servicio y que se necesita para mantener una buena calidad de servicio para las aplicaciones que lo requieren.
 La calidad del servicio es la capacidad de una aplicacion o red para cumplir las expectativas de los usuarios, incluyendo la disponibilidad, 
 la velocidad de respuesta, la estabilidad y la seguridad, necesitando:
 Tolerancia a fallos: resistente a fallos y tener redundancia para estar disponible siempre.
