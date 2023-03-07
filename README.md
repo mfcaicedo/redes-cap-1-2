@@ -23,5 +23,37 @@ Los componentaes clave en cualquier red son:
 + Dispositivos de red: Son dispositivos eletronicos que se usan para administrar el trafico de una red, como computadores, 
 servidores, modems.
 + Medios de red: son los canales fisicos o inalambricos a traves de los cuales se transmiten los datos(cables, ondas de radio).
-+ Servicios de red: 
++ Servicios de red: Programas de computacion distribuidos por la red.(email, navagacion web).  
 + Protocolos de Red: Son las reglas que se utilizan para transmitir datos a traves de la red(http, tcp/ip).
++ Mensajes de red: Contenido convertido en un formato para el viaje en la red.(texto, video, voz).
+
+##7. Describir las características de las arquitecturas de red: tolerante a fallas, escalabilidad, calidad del servicio y seguridad. 
+Mostrar sus respectivos ejemplos.
++ Red tolerante a fallas: 
+Redes orientadas a la conexión conmutadas por circuito: Se crea un circuito temporal a través de las ubicaciones de conmutación 
+a utilizar durante la duración de la llamada telefónica. Si falla algún enlace o dispositivo que participa en el circuito, 
+la llamada se cae.
+Redes sin conexión conmutadas por paquetes: un mensaje puede dividirse en múltiples paquetes de mensajes. Los paquetes individuales 
+contienen la información de direccionamiento indican tanto su punto de origen como su destino final.
+Utilización de paquetes: No se tiene en cuenta el contenido de los paquetes individuales, sólo es visible la dirección del 
+destino final y del próximo dispositivo en la ruta hacia ese destino.
++ Red Escalable: Mediante un diseño jerarquico de capas, en la cual cada una permites insersiones que no causen afectaciones en 
+la red. Hay capa ISP nivel 1 (centro de la internet con conexiones nacionales e internacionales), ISP nivel 2 (brindan servicio 
+regional),finalmente ISP nivel 3 (provedores de servicio local a los usuarios finales).
++ Calidad del servicio: Servicios seguros, estables y continuos. Los nuevos requerimientos de calidad cambian el diseño e 
+implementacion de las arquitecturas de red con:
+Clasificacion: Clasificando las aplicaciones en categorías según la calidad específica de requisitos de servicios. 
+Asignación de prioridades: Segun las características e importancia de la información que se comunica.
++ Seguridad: Implementan muchas herramientas y procedimientos contra defectos de seguridad como tambien la proteccion de
+datos a traves de:
+Garantizar la confidencialidad: Logrando que los datos los lean solamente los receptores autorizados y designados
+(individuos, procesos o dispositivos).
+Mantener la integridad de las comunicaciones: Con información no alterada durante la transmisión de origen a destino.
+Garantizar disponibilidad: Accediendo de forma confiable y oportuna a los servicios de datos para usuarios autorizados.
+##9. Describa que es la calidad del servicio y que se necesita para mantener una buena calidad de servicio para las aplicaciones que lo requieren.
+La calidad del servicio es la capacidad de una aplicacion o red para cumplir las expectativas de los usuarios, incluyendo la disponibilidad, 
+la velocidad de respuesta, la estabilidad y la seguridad, necesitando:
+Tolerancia a fallos: resistente a fallos y tener redundancia para estar disponible siempre.
+Escalabilidad: Manejando un gran número de usuarios y transacciones.
+Calidad de servicio (QoS): La aplicación debe ser estable y consistente en su comportamiento.
+Seguridad: Protegiendo la información de los usuarios.
