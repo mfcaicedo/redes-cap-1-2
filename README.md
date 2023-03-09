@@ -79,7 +79,31 @@ El protocolo es independiente a la tecnologia debido aqueson reglas que deben cu
 se encuentran en la red, sin importar su sistema operativo, estado u otros. Por lo cual las tecnologias deben adaptarse a las reglas que se establecen 
 para la comunicacion por las organizaciones encargadas.
 
+## 7. Explicar la función de los protocolos en las comunicaciones de redes y para qué es el proceso de encapsulamiento de los datos (ilustrar el 
+nombre que adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
 
+Todas las comunicaciones de dispositivos o humanas estan regidas por unas reglas determinadas llamadas protocolos, los cuales son específicos segun 
+las características de la comunicacion. Un conjunto de protocolos interrelacionados que realizan una función de comunicación se denomina suite de 
+protocolos implementados en el software y hardware cargado en cada host y dispositivo de red. 
+Para despues proceder a la encapsulacion con los datos de la aplicación al stack donde varios protocolos le agregan información en cada nivel para 
+luego transmitirse por los medios de la red. Cada capa encapsula las PDU(sección de datos en cualquier capa denominada Unidad de datos del protocolo) 
+que recibe de la capa inferior de acuerdo con el protocolo que se utiliza.
+
+## 9. Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
+TCP-IP:
+Aplicacion: 
+Transporte:
+Internet:
+Acceso a la red:
+
+OSI:
+Aplicacion:
+Presentacion:
+Sesion:
+Transporte:
+Red:
+Enlace de Datos:
+Fisica:
 
 
 
