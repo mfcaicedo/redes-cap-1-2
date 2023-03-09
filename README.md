@@ -91,19 +91,20 @@ que recibe de la capa inferior de acuerdo con el protocolo que se utiliza.
 
 ## 9. Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
 TCP-IP:
-Aplicacion: 
-Transporte:
-Internet:
-Acceso a la red:
+Aplicacion: Donde se representan, codifican e interactuan los datos con el usuario(como el navegador web).
+Transporte: Comunica las aplicaciones entre distintos dispositivos y redes con TCP o UDP. 
+Internet: Determina la la mejor ruta para enviar los datos y garantizar su llegada en la red.
+Acceso a la red: Se encarga del control del hardware en los dispositivos de la red.
 
 OSI:
-Aplicacion:
-Presentacion:
-Sesion:
-Transporte:
-Red:
-Enlace de Datos:
-Fisica:
+Aplicacion: Protocolos de aplicación específicos que se utilizan para la comunicación entre aplicaciones(como http).
+Presentacion: : Presenta los datos en un formato que sea comprensible por las aplicaciones.
+Sesion: Administra al establecer, mantener y finalizar las conexiones entre aplicaciones.
+Transporte: Define servicios para segmentar, transferir y reensamblar los datos.
+Red: Proporciona servicios para intercambiar datos entre dispositivos finales en la red.
+Enlace de Datos: Describe la transmicion de datos entre dispositivos conectados.
+Fisica: Describe la transmisión física de datos a través de varios medios, para activar, mantener y desactivar conexiones fisicas, entre dispositivos
+de la red.
 
 
 
