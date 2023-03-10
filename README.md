@@ -110,6 +110,11 @@ inalámbrica, siendo capaces de transportar gran cantidad de diferentes tipos de
 video y productos de entretenimiento. Los servicios son los programas de comunicación, denominados software, que se ejecutan en los dispositivos 
 conectados a la red.
 
+## Comparar y contrastar los siguientes términos: RED, LAN, WAN,
+INTERNETWORK E INTERNET.
+Tenemos que la **RED** es una conexión de dos o mas ordenadores y esta tiene tipos de red como: **LAN** y **WAN**, en donde la red **LAN**, es una red local, geograficamnte ubicada en una sola parte, la cual decide entre sus dispositivos y su alcance, mientras tanto la red **WAN** es una red global, una red que está separada geográficamente, por lo tanto es una red que interconecta varias redes **LAN**, esto significa que es una red necesaria en algunos casos como pouede ser una empresa con establecimientos en diferentes ciudades, etc.
+
+
 ## 3. ¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
 La Internetwork es Una malla global de redes interconectadas que cubre las necesidades de comunicación humanas. Algunas de estas redes interconectadas 
 de internetworks pertenecen a organizaciones públicas o privadas reservadas para su uso exclusivo de unos pocos. Internet en cambio es una de las varias 
