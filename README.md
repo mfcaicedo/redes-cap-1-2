@@ -18,7 +18,6 @@ Tenemos dos tipos de factores:
 - Cantidad de mensajes adicionales que se transmiten simultáneamente en la red de comunicación
 - Cantidad de tiempo asignado para una comunicación exitosa
 
-
 ### Factores internos: relacionados a la naturaleza del mensaje
 - Tamaño del mensaje 
 - Complejidad del mensaje 
