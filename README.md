@@ -112,22 +112,27 @@ conectados a la red.
 
 ## Comparar y contrastar los siguientes términos: RED, LAN, WAN,
 INTERNETWORK E INTERNET.
-Tenemos que la **RED** es una conexión de dos o mas ordenadores y esta tiene tipos de red como: **LAN** y **WAN**, en donde la red **LAN**, es una red local, geograficamnte ubicada en una sola parte, la cual decide entre sus dispositivos y su alcance, mientras tanto la red **WAN** es una red global, una red que está separada geográficamente, por lo tanto es una red que interconecta varias redes **LAN**, esto significa que es una red necesaria en algunos casos como puede ser una empresa con establecimientos en diferentes ciudades, etc. Por otra parte tenemos el **INTERNETWORK** que son las redes globales interconectadas 
-
+Tenemos que la **RED** es una conexión de dos o mas ordenadores y esta tiene tipos de red como: **LAN** y **WAN**, en donde la red **LAN**, es una red local, geograficamnte ubicada en una sola parte, la cual decide entre sus dispositivos y su alcance, mientras tanto la red **WAN** es una red global, una red que está separada geográficamente, por lo tanto es una red que interconecta varias redes **LAN**, esto significa que es una red necesaria en algunos casos como puede ser una empresa con establecimientos en diferentes ciudades, etc. Por otra parte tenemos el **INTERNETWORK** que son las redes globales interconectadas muldialmente, esto significa que **INTERNET** no es una internetwork púlblica y pues una de las más conocidas, Finalmente se puede decir que **INTERNTET** es una internetwork más conocida y que usa redes **LAN** y **WAN** para su interconexión, y que las redes **LAN** y **WAN** son utilizadas dependiendo de la necesidad. 
 
 ## 3. ¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
 La Internetwork es Una malla global de redes interconectadas que cubre las necesidades de comunicación humanas. Algunas de estas redes interconectadas 
 de internetworks pertenecen a organizaciones públicas o privadas reservadas para su uso exclusivo de unos pocos. Internet en cambio es una de las varias 
 internetworks que existen, ampliamente utilizada con acceso abierto al público en general.  
 
-## 5 ¿Por qué se dice que un protocolo es independiente de la tecnología?
+## 4. Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e
+interfaz de red.
+Se diferencian en: **Tarjeta de interfaz de red (NIC)** es la conexión física, el medio que conecta la red con el dispositivo se inserta en la NIC mientras que el **Puerto físico** es el conector en un dispositivo de red en el cual el medio se conecta pero a otro dispositivo de red y finalmente la **La interfaz de red** son puertos de un dispositivo de interworking que se conectan en este caso con redes individuales, un ejemplo son los puertos de un router.
 
+## 5. ¿Por qué se dice que un protocolo es independiente de la tecnología?
 El protocolo es independiente a la tecnologia debido aqueson reglas que deben cumplirse para la correcta conexion entre los dispositivos que
 se encuentran en la red, sin importar su sistema operativo, estado u otros. Por lo cual las tecnologias deben adaptarse a las reglas que se establecen 
 para la comunicacion por las organizaciones encargadas.
 
-## 7. Explicar la función de los protocolos en las comunicaciones de redes y para qué es el proceso de encapsulamiento de los datos 
-## (ilustrar el nombre que adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
+## 6. Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo
+(PDU).
+
+
+## 7. Explicar la función de los protocolos en las comunicaciones de redes y para qué es el proceso de encapsulamiento de los datos (ilustrar el nombre que adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
 
 Todas las comunicaciones de dispositivos o humanas estan regidas por unas reglas determinadas llamadas protocolos, los cuales son específicos segun 
 las características de la comunicacion. Un conjunto de protocolos interrelacionados que realizan una función de comunicación se denomina suite de 
