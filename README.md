@@ -130,7 +130,10 @@ para la comunicacion por las organizaciones encargadas.
 
 ## 6. Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo
 (PDU).
-
+Se conoce como **PDU** a la forma que toma una porción de datos en cualquier capa por ejemplo tenemos: 
+- Capa de aplicación las conocemos como **datos**
+- Capa de transporte las cononemos como **segmento**
+- Capa de interwork las conocemos como **paquete**, entre otras muchas más. 
 
 ## 7. Explicar la función de los protocolos en las comunicaciones de redes y para qué es el proceso de encapsulamiento de los datos (ilustrar el nombre que adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
 
@@ -141,6 +144,9 @@ Para despues proceder a la encapsulacion con los datos de la aplicación al stac
 luego transmitirse por los medios de la red. Cada capa encapsula las PDU(sección de datos en cualquier capa denominada Unidad de datos del protocolo) 
 que recibe de la capa inferior de acuerdo con el protocolo que se utiliza.
 ![image](https://user-images.githubusercontent.com/99764615/224204832-839c838a-d374-4705-a01a-9281748917e3.png)
+
+## 8. Describir la diferencia entre los modelos de protocolo y modelos de referencia.
+
 
 ## 9. Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
 TCP-IP:
