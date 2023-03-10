@@ -30,5 +30,15 @@ Representan la información que se transmite por la red.
 ### Red de datos: 
 Infraestructura, que tiene un conjunto de atributos que tiene como fin transmitir datos de un lugar a otro tanto local como sepadaros geograficamente. 
 ### Red convergente
+Transportan múltiples servicios en una red, esto es posible debido a que: el flujo de voz, vídeo y datos pueden viajar por medio de una misma red. 
 
 ## 8. Investigar qué son las redes orientadas y no orientadas a la conexión. 
+### Redes orientadas a conexión: 
+Resumidamente se necesita que tanto el emisor como el receptor (dispositivos) establezcan una conexión y la mantengan activa, lo cuál permite que sea más confiable, en su mayoría de casos. 
+## Redes No orientadas a conexión: 
+En este caso tenemos que en esta red no es necesario que se establezca la conexión, sino que se puede enviar un mensaje un emisor sin acuerdo previo con el receptor.
+
+## 10. ¿Por qué importa la calidad del servicio en una red de datos?
+La calidad es muy importante debido a que en toda red se debe garantizar a los usuarios, y se debe garantizar que la inforamción no se pierda o tenga muchos retrasos. 
+Para esto se tienen muchos mecanismos para que sea posible tener una red de calidad como: cola de prioridad, importancia para empresas, sensibles o no sensibles al tiempo, entre otros. 
+
