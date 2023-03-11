@@ -31,7 +31,7 @@ con registro escrito con seguridad al estar codificado extremo a extremo como Wh
 + Correo: Electronico o fisico para compartir mensajes especificos o importantes hacia un remitente.  
 + Redes sociales: Mostrando nuestras actividades para el mundo o familia.
 
-## 4.Describir los factores que afectan la calidad de las comunicaciones.
+## 4. Describir los factores que afectan la calidad de las comunicaciones.
 Tenemos dos tipos de factores: 
 ### Factores externos: relacionados a la complejidad de la red
 - Calidad de la ruta entre el emisor y receptor. 
@@ -115,7 +115,7 @@ inalámbrica, siendo capaces de transportar gran cantidad de diferentes tipos de
 video y productos de entretenimiento. Los servicios son los programas de comunicación, denominados software, que se ejecutan en los dispositivos 
 conectados a la red.
 
-## Comparar y contrastar los siguientes términos: RED, LAN, WAN,
+## 2. Comparar y contrastar los siguientes términos: RED, LAN, WAN,
 INTERNETWORK E INTERNET.
 Tenemos que la **RED** es una conexión de dos o mas ordenadores y esta tiene tipos de red como: **LAN** y **WAN**, en donde la red **LAN**, es una red local, geograficamnte ubicada en una sola parte, la cual decide entre sus dispositivos y su alcance, mientras tanto la red **WAN** es una red global, una red que está separada geográficamente, por lo tanto es una red que interconecta varias redes **LAN**, esto significa que es una red necesaria en algunos casos como puede ser una empresa con establecimientos en diferentes ciudades, etc. Por otra parte tenemos el **INTERNETWORK** que son las redes globales interconectadas muldialmente, esto significa que **INTERNET** no es una internetwork púlblica y pues una de las más conocidas, Finalmente se puede decir que **INTERNTET** es una internetwork más conocida y que usa redes **LAN** y **WAN** para su interconexión, y que las redes **LAN** y **WAN** son utilizadas dependiendo de la necesidad. 
 
