@@ -1,6 +1,11 @@
 # redes-cap-1-2
 ## Taller: Resolver preguntas relacionadas al capítulo 1 y 2
 
+### Participantes: 
+#### Milthon Ferney Caicedo Jurado - mfcaicedo@unicauca.edu.co - 104619011201
+#### Esneider Majin Palechor - emajin@unicauca.edu.co - 
+
+
 ## Primera parte (CAPÍTULO 1)
 
 ## 1. Describir el efecto que tienen las redes en nuestra vida cotidiana.
@@ -146,7 +151,8 @@ que recibe de la capa inferior de acuerdo con el protocolo que se utiliza.
 ![image](https://user-images.githubusercontent.com/99764615/224204832-839c838a-d374-4705-a01a-9281748917e3.png)
 
 ## 8. Describir la diferencia entre los modelos de protocolo y modelos de referencia.
-
+En este caso tenemos que un **modelo de protocolo** es todo el conjunto de protocolos relacionados para estableces una red, y que se deben seguir fielmente y por otro lado los **modelos de referencia** solo proporciona una referencia para que todos los protocolos tengan consistencia, no está pensado para ser para ser especiificación de implementación. 
+Ejemplo: Protocolo TCP/IP es un modelo de protocolo y el modelo OSI es un modelo de referencia.  
 
 ## 9. Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
 TCP-IP:
