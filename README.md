@@ -41,3 +41,10 @@ En este caso tenemos que en esta red no es necesario que se establezca la conexi
 La calidad es muy importante debido a que en toda red se debe garantizar a los usuarios, y se debe garantizar que la inforamción no se pierda o tenga muchos retrasos. 
 Para esto se tienen muchos mecanismos para que sea posible tener una red de calidad como: cola de prioridad, importancia para empresas, sensibles o no sensibles al tiempo, entre otros. 
 
+## Segunda Parte
+
+## 8. Describir la diferencia entre los modelos de protocolo y modelos de referencia.
+
+El modelo de protocolo es una especificación detallada de las reglas de comunicacion de dos o más sistemas, enfocandose en la parte técnic de la comunicación (formato de datos, secuencia de mensajes o procedimientos para conflictos), Centrandose en la implementación específica de la comunicación. Mientras que el modelo de referencia es una descripción abstracta de los procesos y componentes involucrados en la comunicación, con conceptos generales y funciones que se necesitan para que los sistemas se comuniquen de manera efectiva, sin preocuparse por detalles técnicos de implementación, utilizandose principalmente para establecer un lenguaje común y una comprensión compartida de la comunicación.
+
+
